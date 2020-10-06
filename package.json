@@ -1,0 +1,22 @@
+{
+  "name": "pwa-geo-tracking",
+  "version": "1.0.0",
+  "description": "An app for tracking advisors using pwa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -a localhost -p 8000"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Maximilian Schwarzmüller",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
